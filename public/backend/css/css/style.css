@@ -1,0 +1,32 @@
+
+.dongia-input::-webkit-inner-spin-button { 
+  -webkit-appearance: none; 
+  margin: 0; 
+}
+
+/* them-bai-viet */
+.row.them-bai-viet{
+  padding: 50px 0 80px 0;
+}
+.row.them-bai-viet .form-group label{
+    font-size: 20px;
+    color: #3b2b2d;
+}
+.row.them-bai-viet .form-group input{
+  font-size: 18px;
+}
+.row.them-bai-viet .btn-them-bai-viet{
+  background: linear-gradient(#ffdde1, #ee9ca7);
+  color: white;
+  border-radius: 25px;
+  padding: 12px 25px 12px 25px;
+  font-family: 'Roboto Mono', monospace;
+  box-shadow: rgba(0, 0, 0, 0.1) 0px 20px 25px -5px, rgba(0, 0, 0, 0.04) 0px 10px 10px -5px;    margin: 20px;
+  border: 0;
+}
+.row.them-bai-viet .btn-them-bai-viet:hover{
+  text-decoration: none;
+  color: white;
+  box-shadow: none;
+  transition: 0.8s;
+}
